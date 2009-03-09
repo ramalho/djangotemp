@@ -1,0 +1,2040 @@
+[
+  {
+    "pk": 30, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471355175", 
+      "encadernacao": "du", 
+      "qt_paginas": 0, 
+      "dtiso_publicacao": "1999", 
+      "preco": "102.95", 
+      "edicao": "0", 
+      "titulo": "1999 Financial Accounting Research System (FARS) - Academic Version", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 33, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471509035", 
+      "encadernacao": "br", 
+      "qt_paginas": 288, 
+      "dtiso_publicacao": "1989", 
+      "preco": "74.95", 
+      "edicao": "0", 
+      "titulo": "A Manager's Guide to Employee Privacy: Law, Policies, and Procedures", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 24, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471194439", 
+      "encadernacao": "br", 
+      "qt_paginas": 0, 
+      "dtiso_publicacao": "1998", 
+      "preco": "36.95", 
+      "edicao": "0", 
+      "titulo": "Accounting Principles, 5E, Vol. 1, Chapters 1-13, Working Papers", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 10, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9788534608855", 
+      "encadernacao": "br", 
+      "qt_paginas": 180, 
+      "dtiso_publicacao": "1995", 
+      "preco": "65", 
+      "edicao": "0\u00aa", 
+      "titulo": "Andando No Limite - Como Dirigir sua Empresa de Fora para Dentro... e em Alta Velocidade", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 1, 
+      "editora": 4
+    }
+  }, 
+  {
+    "pk": 66, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780201533774", 
+      "encadernacao": "du", 
+      "qt_paginas": 750, 
+      "dtiso_publicacao": "1992", 
+      "preco": "445.4", 
+      "edicao": "3", 
+      "titulo": "Artificial Intelligence", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 3
+    }
+  }, 
+  {
+    "pk": 16, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471109464", 
+      "encadernacao": "br", 
+      "qt_paginas": 0, 
+      "dtiso_publicacao": "1996", 
+      "preco": "42.95", 
+      "edicao": "0", 
+      "titulo": "Building a Mail Order Business: A Complete Manual for Success, 4E", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 26, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471295266", 
+      "encadernacao": "br", 
+      "qt_paginas": 395, 
+      "dtiso_publicacao": "1998", 
+      "preco": "44.99", 
+      "edicao": "1", 
+      "titulo": "Building and Managing Virtual Private Networks", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 32, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471501800", 
+      "encadernacao": "br", 
+      "qt_paginas": 368, 
+      "dtiso_publicacao": "1989", 
+      "preco": "185", 
+      "edicao": "0", 
+      "titulo": "Business Plans That Win Venture Capital", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 43, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471997627", 
+      "encadernacao": "br", 
+      "qt_paginas": 216, 
+      "dtiso_publicacao": "2000", 
+      "preco": "79.95", 
+      "edicao": "0", 
+      "titulo": "Capital Markets and EMU", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 61, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780201477115", 
+      "encadernacao": "br", 
+      "qt_paginas": 712, 
+      "dtiso_publicacao": "2001", 
+      "preco": "194.3", 
+      "edicao": "1", 
+      "titulo": "Computer Networking A Top-Down Approach Featuring the Internet", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 3
+    }
+  }, 
+  {
+    "pk": 40, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471952381", 
+      "encadernacao": "br", 
+      "qt_paginas": 358, 
+      "dtiso_publicacao": "1998", 
+      "preco": "154.5", 
+      "edicao": "0", 
+      "titulo": "Contract Formation and Letters of Intent: A Comparative Assessment", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 5, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9781565922709", 
+      "encadernacao": "br", 
+      "qt_paginas": 240, 
+      "dtiso_publicacao": "1997", 
+      "preco": "29.95", 
+      "edicao": "1", 
+      "titulo": "Database Programming With Jdbc and Java", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 2
+    }
+  }, 
+  {
+    "pk": 47, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471822400", 
+      "encadernacao": "br", 
+      "qt_paginas": 0, 
+      "dtiso_publicacao": "2000", 
+      "preco": "29.95", 
+      "edicao": "0", 
+      "titulo": "Derivatives: The Wild Beast of Finance", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 17, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471116882", 
+      "encadernacao": "br", 
+      "qt_paginas": 288, 
+      "dtiso_publicacao": "1996", 
+      "preco": "44.95", 
+      "edicao": "0", 
+      "titulo": "Designing Multimedia Environments for Children", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 39, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471836544", 
+      "encadernacao": "br", 
+      "qt_paginas": 222, 
+      "dtiso_publicacao": "1986", 
+      "preco": "89.95", 
+      "edicao": "0", 
+      "titulo": "Dictionary of International Finance, 2E", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 60, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9788534613767", 
+      "encadernacao": "br", 
+      "qt_paginas": 261, 
+      "dtiso_publicacao": "2001", 
+      "preco": "58", 
+      "edicao": "1\u00aa", 
+      "titulo": "Dilema da Inova\u00e7\u00e3o - Quando Novas Tecnologias Levam Empresas ao Fracasso", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 1, 
+      "editora": 4
+    }
+  }, 
+  {
+    "pk": 48, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9788534610469", 
+      "encadernacao": "br", 
+      "qt_paginas": 1000, 
+      "dtiso_publicacao": "1998", 
+      "preco": "159", 
+      "edicao": "0\u00aa", 
+      "titulo": "Dominando o Delphi 4 A Biblia", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 1, 
+      "editora": 4
+    }
+  }, 
+  {
+    "pk": 71, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780321200686", 
+      "encadernacao": "br", 
+      "qt_paginas": 736, 
+      "dtiso_publicacao": "2004", 
+      "preco": "180.7", 
+      "edicao": "", 
+      "titulo": "Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 3
+    }
+  }, 
+  {
+    "pk": 68, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780201760408", 
+      "encadernacao": "br", 
+      "qt_paginas": 393, 
+      "dtiso_publicacao": "2003", 
+      "preco": "162.4", 
+      "edicao": "", 
+      "titulo": "Essential ASP.NET with Examples in C#", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 3
+    }
+  }, 
+  {
+    "pk": 3, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9788535202953", 
+      "encadernacao": "br", 
+      "qt_paginas": 528, 
+      "dtiso_publicacao": "1998", 
+      "preco": "125", 
+      "edicao": "0\u00aa", 
+      "titulo": "Estrat\u00e9gia - A busca da vantagem competitiva", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 1, 
+      "editora": 1
+    }
+  }, 
+  {
+    "pk": 64, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780130674791", 
+      "encadernacao": "br", 
+      "qt_paginas": 448, 
+      "dtiso_publicacao": "2001", 
+      "preco": "168.7", 
+      "edicao": "1", 
+      "titulo": "Executable UML: How to Build Class Models", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 3
+    }
+  }, 
+  {
+    "pk": 70, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9788536500522", 
+      "encadernacao": "br", 
+      "qt_paginas": 260, 
+      "dtiso_publicacao": "2005", 
+      "preco": "67", 
+      "edicao": "\u00aa", 
+      "titulo": "Fa\u00e7a um Site - Flash MX 2004 - Orientado por Projeto", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 1, 
+      "editora": 7
+    }
+  }, 
+  {
+    "pk": 20, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471130116", 
+      "encadernacao": "br", 
+      "qt_paginas": 330, 
+      "dtiso_publicacao": "1996", 
+      "preco": "16.95", 
+      "edicao": "0", 
+      "titulo": "Free Money When You're Unemployed, 2E", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 19, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471124597", 
+      "encadernacao": "du", 
+      "qt_paginas": 0, 
+      "dtiso_publicacao": "1995", 
+      "preco": "6.95", 
+      "edicao": "0", 
+      "titulo": "Getting Started with WordPerfect 6.0 for Windows", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 51, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9788535201918", 
+      "encadernacao": "br", 
+      "qt_paginas": 294, 
+      "dtiso_publicacao": "1997", 
+      "preco": "42", 
+      "edicao": "0\u00aa", 
+      "titulo": "Home Pages ( Recursos e Tecnicas p/ Cria\u00e7\u00e3o de Paginas na www)", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 1, 
+      "editora": 1
+    }
+  }, 
+  {
+    "pk": 36, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471551935", 
+      "encadernacao": "br", 
+      "qt_paginas": 336, 
+      "dtiso_publicacao": "1992", 
+      "preco": "12.95", 
+      "edicao": "0", 
+      "titulo": "How to Promote, Publicize, and Advertise Your Growing Business: Getting the Word Out without Spendin", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 34, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471529484", 
+      "encadernacao": "br", 
+      "qt_paginas": 0, 
+      "dtiso_publicacao": "1990", 
+      "preco": "34.95", 
+      "edicao": "0", 
+      "titulo": "How to Write Winning Proposals for Your Company or Client, 2E", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 59, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9781562059507", 
+      "encadernacao": "br", 
+      "qt_paginas": 612, 
+      "dtiso_publicacao": "1999", 
+      "preco": "157", 
+      "edicao": "1", 
+      "titulo": "Java 2 Certification Training Guide , Covers Exams 310-025 , 310-027 , 310-050", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 3
+    }
+  }, 
+  {
+    "pk": 63, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9788571948693", 
+      "encadernacao": "br", 
+      "qt_paginas": 372, 
+      "dtiso_publicacao": "2002", 
+      "preco": "89", 
+      "edicao": "1\u00aa", 
+      "titulo": "Java 2 Ensino Did&aacute;tico Desenvolvendo e Implementando Aplica&ccedil;&otilde;es", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 1, 
+      "editora": 7
+    }
+  }, 
+  {
+    "pk": 4, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9781565924833", 
+      "encadernacao": "br", 
+      "qt_paginas": 622, 
+      "dtiso_publicacao": "1999", 
+      "preco": "29.95", 
+      "edicao": "1", 
+      "titulo": "Java Enterprise in a Nutshell", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 2
+    }
+  }, 
+  {
+    "pk": 53, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9781565927179", 
+      "encadernacao": "br", 
+      "qt_paginas": 400, 
+      "dtiso_publicacao": "2000", 
+      "preco": "24.95", 
+      "edicao": "1", 
+      "titulo": "Lotus Domino Administration in a Nutshell", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 2
+    }
+  }, 
+  {
+    "pk": 15, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471020578", 
+      "encadernacao": "br", 
+      "qt_paginas": 318, 
+      "dtiso_publicacao": "1996", 
+      "preco": "55", 
+      "edicao": "0", 
+      "titulo": "Managed Trading: Myths & Truths", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 11, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9783534610815", 
+      "encadernacao": "br", 
+      "qt_paginas": 418, 
+      "dtiso_publicacao": "1995", 
+      "preco": "52", 
+      "edicao": "0\u00aa", 
+      "titulo": "Marketing Pleno", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 1, 
+      "editora": 4
+    }
+  }, 
+  {
+    "pk": 12, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9788534608084", 
+      "encadernacao": "br", 
+      "qt_paginas": 350, 
+      "dtiso_publicacao": "1995", 
+      "preco": "149", 
+      "edicao": "0", 
+      "titulo": "Microsoft WINDOWS NT 4 SERVER RESOURCE KIT SUPLEMENTOS 1 E 2", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 4
+    }
+  }, 
+  {
+    "pk": 6, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9781565922136", 
+      "encadernacao": "br", 
+      "qt_paginas": 214, 
+      "dtiso_publicacao": "1996", 
+      "preco": "24.95", 
+      "edicao": "0", 
+      "titulo": "Netsuccess : How Real Estate Agents Use the Internet", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 2
+    }
+  }, 
+  {
+    "pk": 23, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471179757", 
+      "encadernacao": "br", 
+      "qt_paginas": 343, 
+      "dtiso_publicacao": "1999", 
+      "preco": "75", 
+      "edicao": "0", 
+      "titulo": "Network Auditing: A Control Assessment Approach", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 42, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471973577", 
+      "encadernacao": "br", 
+      "qt_paginas": 240, 
+      "dtiso_publicacao": "1997", 
+      "preco": "85", 
+      "edicao": "0", 
+      "titulo": "Network-Based Images: A Practical Guide to Acquisition, Storage, Conversion, Compression and Transmi", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 57, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9788535206302", 
+      "encadernacao": "br", 
+      "qt_paginas": 518, 
+      "dtiso_publicacao": "2000", 
+      "preco": "93.5", 
+      "edicao": "1\u00aa", 
+      "titulo": "Oracle8i Dicas & T\u00e9cnicas", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 1, 
+      "editora": 1
+    }
+  }, 
+  {
+    "pk": 58, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9788535207095", 
+      "encadernacao": "br", 
+      "qt_paginas": 400, 
+      "dtiso_publicacao": "2000", 
+      "preco": "89.9", 
+      "edicao": "1\u00aa", 
+      "titulo": "Organizacao Orientada para a Estrategia", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 1, 
+      "editora": 1
+    }
+  }, 
+  {
+    "pk": 50, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9788534611978", 
+      "encadernacao": "br", 
+      "qt_paginas": 198, 
+      "dtiso_publicacao": "2000", 
+      "preco": "42", 
+      "edicao": "1\u00aa", 
+      "titulo": "Powerpoint 2000 passo a passo lite", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 1, 
+      "editora": 4
+    }
+  }, 
+  {
+    "pk": 56, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780201616460", 
+      "encadernacao": "br", 
+      "qt_paginas": 279, 
+      "dtiso_publicacao": "2000", 
+      "preco": "120.3", 
+      "edicao": "1", 
+      "titulo": "Practical Java Programming Language Guide", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 3
+    }
+  }, 
+  {
+    "pk": 67, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780596000646", 
+      "encadernacao": "br", 
+      "qt_paginas": 512, 
+      "dtiso_publicacao": "2002", 
+      "preco": "39.95", 
+      "edicao": "2", 
+      "titulo": "Programming with Qt, 2nd Edition", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 2
+    }
+  }, 
+  {
+    "pk": 49, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471288350", 
+      "encadernacao": "br", 
+      "qt_paginas": 1180, 
+      "dtiso_publicacao": "1997", 
+      "preco": "65", 
+      "edicao": "6", 
+      "titulo": "Project managemente : A Systems  Approach to Planning, Scheduling and Controlling,", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 54, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780201704068", 
+      "encadernacao": "br", 
+      "qt_paginas": 776, 
+      "dtiso_publicacao": "2000", 
+      "preco": "134.9", 
+      "edicao": "1", 
+      "titulo": "Real World Adobe GoLive", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 3
+    }
+  }, 
+  {
+    "pk": 44, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471107590", 
+      "encadernacao": "br", 
+      "qt_paginas": 0, 
+      "dtiso_publicacao": "1996", 
+      "preco": "87.95", 
+      "edicao": "0", 
+      "titulo": "Risk Management", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 2, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9788570014757", 
+      "encadernacao": "br", 
+      "qt_paginas": 244, 
+      "dtiso_publicacao": "1989", 
+      "preco": "26", 
+      "edicao": "0\u00aa", 
+      "titulo": "Sistemas Operacionais Distribu\u00eddos - Aspectos gerais e an\u00e1lise de sua estrutura", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 1, 
+      "editora": 1
+    }
+  }, 
+  {
+    "pk": 27, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471314752", 
+      "encadernacao": "br", 
+      "qt_paginas": 245, 
+      "dtiso_publicacao": "1999", 
+      "preco": "22.95", 
+      "edicao": "0", 
+      "titulo": "Small Business Formation Handbook", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 29, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471353614", 
+      "encadernacao": "br", 
+      "qt_paginas": 220, 
+      "dtiso_publicacao": "1999", 
+      "preco": "12.95", 
+      "edicao": "0", 
+      "titulo": "Smart GuideTM to Maximizing Your 401(k) Plan", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 45, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471318859", 
+      "encadernacao": "br", 
+      "qt_paginas": 0, 
+      "dtiso_publicacao": "1999", 
+      "preco": "10.95", 
+      "edicao": "0", 
+      "titulo": "Smart GuideTM to Starting a Small Business", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 35, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471532965", 
+      "encadernacao": "br", 
+      "qt_paginas": 432, 
+      "dtiso_publicacao": "1992", 
+      "preco": "69.99", 
+      "edicao": "0", 
+      "titulo": "Software Specification and Design: A Disciplined Approach for Real-Time Systems", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 41, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471969747", 
+      "encadernacao": "br", 
+      "qt_paginas": 350, 
+      "dtiso_publicacao": "1997", 
+      "preco": "59", 
+      "edicao": "0", 
+      "titulo": "Software Without Frontiers: A Multi-Platform, Multi-Cultural, Multi-Nation Approach", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 38, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471816560", 
+      "encadernacao": "br", 
+      "qt_paginas": 76, 
+      "dtiso_publicacao": "1986", 
+      "preco": "33.95", 
+      "edicao": "0", 
+      "titulo": "Strategies for Competitive Success", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 9, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780672313158", 
+      "encadernacao": "br", 
+      "qt_paginas": 800, 
+      "dtiso_publicacao": "1998", 
+      "preco": "340.7", 
+      "edicao": "0", 
+      "titulo": "Teach Yourself Visual Basic 5 in 21 Days, Complete Compiler Edition", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 3
+    }
+  }, 
+  {
+    "pk": 18, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471118206", 
+      "encadernacao": "br", 
+      "qt_paginas": 216, 
+      "dtiso_publicacao": "1996", 
+      "preco": "14.95", 
+      "edicao": "0", 
+      "titulo": "Telecommute!: Go To Work Without Leaving Home", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 52, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780937175224", 
+      "encadernacao": "br", 
+      "qt_paginas": 350, 
+      "dtiso_publicacao": "1998", 
+      "preco": "29.95", 
+      "edicao": "3", 
+      "titulo": "Termcap and Terminfo", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 2
+    }
+  }, 
+  {
+    "pk": 28, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471332220", 
+      "encadernacao": "br", 
+      "qt_paginas": 0, 
+      "dtiso_publicacao": "1999", 
+      "preco": "24.95", 
+      "edicao": "0", 
+      "titulo": "The Entrepreneur Magazine Small Business Advisor, 2E", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 21, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471132707", 
+      "encadernacao": "br", 
+      "qt_paginas": 0, 
+      "dtiso_publicacao": "1995", 
+      "preco": "42.5", 
+      "edicao": "0", 
+      "titulo": "The Marketing Edge: The New Leadership Role of Sales & Marketing in Manufacturing", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 22, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471159391", 
+      "encadernacao": "br", 
+      "qt_paginas": 0, 
+      "dtiso_publicacao": "1997", 
+      "preco": "150", 
+      "edicao": "0", 
+      "titulo": "The Tax Law of Colleges and Universities", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 31, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471384731", 
+      "encadernacao": "br", 
+      "qt_paginas": 0, 
+      "dtiso_publicacao": "2000", 
+      "preco": "29.95", 
+      "edicao": "0", 
+      "titulo": "Trade Stocks Online", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 13, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9788534605830", 
+      "encadernacao": "br", 
+      "qt_paginas": 192, 
+      "dtiso_publicacao": "1998", 
+      "preco": "33", 
+      "edicao": "0\u00aa", 
+      "titulo": "T\u00e9cnicas De Programa\u00e7\u00e3o Neurolingu\u00edstica - Manual do Usu\u00e1rio", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 1, 
+      "editora": 4
+    }
+  }, 
+  {
+    "pk": 1, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9788535200188", 
+      "encadernacao": "du", 
+      "qt_paginas": 560, 
+      "dtiso_publicacao": "1995", 
+      "preco": "67", 
+      "edicao": "0\u00aa", 
+      "titulo": "Usando Windows 95 O Guia Amigavel", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 1, 
+      "editora": 1
+    }
+  }, 
+  {
+    "pk": 62, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780201432893", 
+      "encadernacao": "br", 
+      "qt_paginas": 192, 
+      "dtiso_publicacao": "1999", 
+      "preco": "134", 
+      "edicao": "1", 
+      "titulo": "Use Case Driven Object Modeling with UML A Practical Approach", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 3
+    }
+  }, 
+  {
+    "pk": 7, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780789716262", 
+      "encadernacao": "", 
+      "qt_paginas": 640, 
+      "dtiso_publicacao": "1998", 
+      "preco": "130", 
+      "edicao": "0", 
+      "titulo": "Using Macromedia Dreamweaver 1.2", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 3
+    }
+  }, 
+  {
+    "pk": 14, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9788534606028", 
+      "encadernacao": "br", 
+      "qt_paginas": 454, 
+      "dtiso_publicacao": "1995", 
+      "preco": "89", 
+      "edicao": "0\u00aa", 
+      "titulo": "Visto De Migra\u00e7\u00e3o E Neg\u00f3cios Para Os Estados Unidos - Guia Pr\u00e1tico", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 1, 
+      "editora": 4
+    }
+  }, 
+  {
+    "pk": 8, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780672312625", 
+      "encadernacao": "br", 
+      "qt_paginas": 1090, 
+      "dtiso_publicacao": "1999", 
+      "preco": "178.2", 
+      "edicao": "0", 
+      "titulo": "Visual InterDev 6 Unleashed", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 3
+    }
+  }, 
+  {
+    "pk": 25, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471292821", 
+      "encadernacao": "br", 
+      "qt_paginas": 0, 
+      "dtiso_publicacao": "1998", 
+      "preco": "29.95", 
+      "edicao": "0", 
+      "titulo": "Web Commerce: Building a Digital Business", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 37, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471641230", 
+      "encadernacao": "br", 
+      "qt_paginas": 288, 
+      "dtiso_publicacao": "1996", 
+      "preco": "39.95", 
+      "edicao": "0", 
+      "titulo": "What Customers Value Most: How to Achieve Business Transformation by Focusing on Processes That Touc", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 46, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780471359708", 
+      "encadernacao": "du", 
+      "qt_paginas": 0, 
+      "dtiso_publicacao": "1999", 
+      "preco": "75", 
+      "edicao": "0", 
+      "titulo": "Wiley Practitioner's Guide to GAAS 2000: Covering all SASs, SSAEs, SSARSs, and Interpretations", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 5
+    }
+  }, 
+  {
+    "pk": 69, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780130270108", 
+      "encadernacao": "br", 
+      "qt_paginas": 800, 
+      "dtiso_publicacao": "2000", 
+      "preco": "173.8", 
+      "edicao": "1\u00aa", 
+      "titulo": "Windows 2000 System Administration Handbook", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 1, 
+      "editora": 3
+    }
+  }, 
+  {
+    "pk": 65, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9781578702640", 
+      "encadernacao": "br", 
+      "qt_paginas": 240, 
+      "dtiso_publicacao": "2001", 
+      "preco": "131.3", 
+      "edicao": "1", 
+      "titulo": "Writing Information Security Policies", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 3
+    }
+  }, 
+  {
+    "pk": 55, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "isbn": "9780071351249", 
+      "encadernacao": "br", 
+      "qt_paginas": 600, 
+      "dtiso_publicacao": "2000", 
+      "preco": "54.99", 
+      "edicao": "1", 
+      "titulo": "XML: A Developer's Guide", 
+      "dt_catalogacao": "2009-03-08", 
+      "idioma": 2, 
+      "editora": 6
+    }
+  }, 
+  {
+    "pk": 1, 
+    "model": "catalogo.editora", 
+    "fields": {
+      "cidade": "Rio de Janeiro", 
+      "nome": "Campus"
+    }
+  }, 
+  {
+    "pk": 2, 
+    "model": "catalogo.editora", 
+    "fields": {
+      "cidade": "Sebastopol, CA", 
+      "nome": "O'Reilly"
+    }
+  }, 
+  {
+    "pk": 3, 
+    "model": "catalogo.editora", 
+    "fields": {
+      "cidade": "Reading, MA", 
+      "nome": "Addison-Wesley"
+    }
+  }, 
+  {
+    "pk": 4, 
+    "model": "catalogo.editora", 
+    "fields": {
+      "cidade": "S\u00e3o Paulo", 
+      "nome": "Makron Books"
+    }
+  }, 
+  {
+    "pk": 5, 
+    "model": "catalogo.editora", 
+    "fields": {
+      "cidade": "New York, NY", 
+      "nome": "Wiley"
+    }
+  }, 
+  {
+    "pk": 6, 
+    "model": "catalogo.editora", 
+    "fields": {
+      "cidade": "Berkeley, CA", 
+      "nome": "Osborne/McGraw-Hill"
+    }
+  }, 
+  {
+    "pk": 7, 
+    "model": "catalogo.editora", 
+    "fields": {
+      "cidade": "S\u00e3o Paulo", 
+      "nome": "\u00c9rica"
+    }
+  }, 
+  {
+    "pk": 1, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 1, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "QUE"
+    }
+  }, 
+  {
+    "pk": 2, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 2, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Mendes, Sueli B.T."
+    }
+  }, 
+  {
+    "pk": 4, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 3, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Montgomery, Cynthia A."
+    }
+  }, 
+  {
+    "pk": 6, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 4, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Flanagan, David"
+    }
+  }, 
+  {
+    "pk": 7, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 5, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Reese, George"
+    }
+  }, 
+  {
+    "pk": 8, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 6, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Kersnar, Scott"
+    }
+  }, 
+  {
+    "pk": 9, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 7, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Darnell, Rick"
+    }
+  }, 
+  {
+    "pk": 10, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 8, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Thurrott, Paul"
+    }
+  }, 
+  {
+    "pk": 11, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 9, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Gurewich, Nathan"
+    }
+  }, 
+  {
+    "pk": 12, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 10, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Lobos, Julio"
+    }
+  }, 
+  {
+    "pk": 13, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 11, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Souza, Francisco Alberto Madia de"
+    }
+  }, 
+  {
+    "pk": 14, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 12, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Microsoft"
+    }
+  }, 
+  {
+    "pk": 15, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 13, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Kluczny, Johann W."
+    }
+  }, 
+  {
+    "pk": 17, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 14, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Cohen, Jeffrey"
+    }
+  }, 
+  {
+    "pk": 18, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 15, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Jack D. Schwager"
+    }
+  }, 
+  {
+    "pk": 19, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 16, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "William A. Cohen"
+    }
+  }, 
+  {
+    "pk": 20, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 17, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Allison Druin ; Cynthia Solomon"
+    }
+  }, 
+  {
+    "pk": 21, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 18, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Lisa Shaw"
+    }
+  }, 
+  {
+    "pk": 22, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 19, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Kitty Daniels (Office Information Systems Departme"
+    }
+  }, 
+  {
+    "pk": 23, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 20, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Laurie Blum"
+    }
+  }, 
+  {
+    "pk": 24, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 21, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "George E. Palmatier ; Joseph S. Shull"
+    }
+  }, 
+  {
+    "pk": 25, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 22, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Bertrand M. Harding"
+    }
+  }, 
+  {
+    "pk": 26, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 23, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Gordon E. Smith"
+    }
+  }, 
+  {
+    "pk": 27, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 24, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Jerry J. Weygandt (Univ. of Wisconsin, Madison) ;"
+    }
+  }, 
+  {
+    "pk": 28, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 25, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Kate Maddox"
+    }
+  }, 
+  {
+    "pk": 29, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 26, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Kosiur, Dave"
+    }
+  }, 
+  {
+    "pk": 30, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 27, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Robert A. Cooke"
+    }
+  }, 
+  {
+    "pk": 31, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 28, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Inc. Entrepreneur Media"
+    }
+  }, 
+  {
+    "pk": 32, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 29, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Barbara Hetzer"
+    }
+  }, 
+  {
+    "pk": 33, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 30, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Financial Accounting Standards Board (FASB)"
+    }
+  }, 
+  {
+    "pk": 34, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 31, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Mark  Larson (Rolling Along Investments, Inc., Ros"
+    }
+  }, 
+  {
+    "pk": 35, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 32, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Terrence P. McGarty"
+    }
+  }, 
+  {
+    "pk": 36, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 33, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Kurt H. Decker"
+    }
+  }, 
+  {
+    "pk": 37, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 34, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Ron Tepper"
+    }
+  }, 
+  {
+    "pk": 38, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 35, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Ken Shumate (Hughes Aircraft Company) ; Marilyn Ke"
+    }
+  }, 
+  {
+    "pk": 39, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 36, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Kim Baker ; Sunny Baker"
+    }
+  }, 
+  {
+    "pk": 40, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 37, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Stanley A. Brown"
+    }
+  }, 
+  {
+    "pk": 41, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 38, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Robert A. Pitts ; Charles C. Snow"
+    }
+  }, 
+  {
+    "pk": 42, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 39, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Julian Walmsley"
+    }
+  }, 
+  {
+    "pk": 43, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 40, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Michael Furmston (Univ. of Bristol, UK) ; Norisada"
+    }
+  }, 
+  {
+    "pk": 44, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 41, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Edited by: P. A. V. Hall (The Open Univ., UK) ; R."
+    }
+  }, 
+  {
+    "pk": 45, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 42, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Gilbert Held (4-Degree Consulting, Macon, Georgia)"
+    }
+  }, 
+  {
+    "pk": 46, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 43, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Karel Lanoo ; Daniel Gros"
+    }
+  }, 
+  {
+    "pk": 47, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 44, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Emmett J. Vaughan (Univ. of Iowa)"
+    }
+  }, 
+  {
+    "pk": 48, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 45, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Lisa Rogak"
+    }
+  }, 
+  {
+    "pk": 49, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 46, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Dan M. Guy (Auditing Standards AICPA, New York) ;"
+    }
+  }, 
+  {
+    "pk": 50, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 47, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Alfred Steinherr (European Investment Bank, Luxemb"
+    }
+  }, 
+  {
+    "pk": 51, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 48, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Cantu, Marco"
+    }
+  }, 
+  {
+    "pk": 52, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 49, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Kerzner, Harold Ph. D."
+    }
+  }, 
+  {
+    "pk": 53, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 50, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Lite"
+    }
+  }, 
+  {
+    "pk": 54, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 51, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Alcantara, Andreia Almeida de"
+    }
+  }, 
+  {
+    "pk": 55, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 52, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Strang, John"
+    }
+  }, 
+  {
+    "pk": 56, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 53, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Neilson, Greg"
+    }
+  }, 
+  {
+    "pk": 57, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 54, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Carlson, Jeff"
+    }
+  }, 
+  {
+    "pk": 59, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 55, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Cowan, John"
+    }
+  }, 
+  {
+    "pk": 60, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 56, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Haggar, Peter"
+    }
+  }, 
+  {
+    "pk": 61, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 57, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Scherer"
+    }
+  }, 
+  {
+    "pk": 65, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 58, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Kaplan"
+    }
+  }, 
+  {
+    "pk": 66, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 59, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Jaworski, Jamie"
+    }
+  }, 
+  {
+    "pk": 67, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 60, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Christensen, Clayton M."
+    }
+  }, 
+  {
+    "pk": 68, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 61, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Kurose, James"
+    }
+  }, 
+  {
+    "pk": 70, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 62, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Rosenberg, Doug"
+    }
+  }, 
+  {
+    "pk": 72, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 63, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Furgeri, S&eacute;rgio"
+    }
+  }, 
+  {
+    "pk": 73, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 64, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Starr, Leon"
+    }
+  }, 
+  {
+    "pk": 74, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 65, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Barman, Scott"
+    }
+  }, 
+  {
+    "pk": 75, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 66, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Winston, Patrick"
+    }
+  }, 
+  {
+    "pk": 76, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 67, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Dalheimer, Matthias Kalle"
+    }
+  }, 
+  {
+    "pk": 77, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 68, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Onion, Fritz"
+    }
+  }, 
+  {
+    "pk": 78, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 69, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Willis, Will"
+    }
+  }, 
+  {
+    "pk": 81, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 70, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Oliviero, Carlos A. J."
+    }
+  }, 
+  {
+    "pk": 82, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 71, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Hohpe, Gregor"
+    }
+  }, 
+  {
+    "pk": 3, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 2, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Kirner, Claudio"
+    }
+  }, 
+  {
+    "pk": 5, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 3, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Porter, Michael E."
+    }
+  }, 
+  {
+    "pk": 16, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 13, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Teixeira,  Elson A."
+    }
+  }, 
+  {
+    "pk": 58, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 54, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Fleishman, Glenn"
+    }
+  }, 
+  {
+    "pk": 62, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 57, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Gaynor"
+    }
+  }, 
+  {
+    "pk": 69, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 61, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Ross, Keith"
+    }
+  }, 
+  {
+    "pk": 71, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 62, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Scott, Kendall"
+    }
+  }, 
+  {
+    "pk": 79, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 69, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Watts, David"
+    }
+  }, 
+  {
+    "pk": 83, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 71, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Woolf, Bobby"
+    }
+  }, 
+  {
+    "pk": 63, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 57, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Valentinsen"
+    }
+  }, 
+  {
+    "pk": 80, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 69, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Strahan, Tillman"
+    }
+  }, 
+  {
+    "pk": 64, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 57, 
+      "criador": null, 
+      "papel": "", 
+      "nome": "Cursetjee"
+    }
+  }, 
+  {
+    "pk": 1, 
+    "model": "catalogo.idioma", 
+    "fields": {
+      "nome": "portugu\u00eas", 
+      "sigla": "pt"
+    }
+  }, 
+  {
+    "pk": 2, 
+    "model": "catalogo.idioma", 
+    "fields": {
+      "nome": "ingl\u00eas", 
+      "sigla": "en"
+    }
+  }
+]

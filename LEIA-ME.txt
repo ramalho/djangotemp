@@ -1,0 +1,5 @@
+Este repositório é temporário.
+ 
+Quando ele for substituído, os arquivos serão apagados e este 
+LEIA-ME.txt conterá instruções para acessar o novo repositório.
+

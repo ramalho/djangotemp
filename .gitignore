@@ -1,0 +1,6 @@
+*.pyc
+*~
+*.wpr
+*.kpf
+settings_local.py
+

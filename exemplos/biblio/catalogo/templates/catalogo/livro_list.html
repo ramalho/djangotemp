@@ -1,0 +1,14 @@
+<h1>Livros</h1>
+
+<table border="1">
+    <tr><th>ISBN</th><th>Título</th></tr>
+    {% for livro in object_list %}
+        <tr>
+            <td>{{ livro.isbn }}</td>
+            <td>
+                <a href="{{ livro.get_absolute_url }}">{{ livro.titulo }}</a>
+            </td>
+        </tr>
+    {% endfor %}
+</table>
+

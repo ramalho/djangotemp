@@ -1,0 +1,3 @@
+Este diretório é para os arquivos gerenciados pelo SQLite3.
+
+Este LEIA-ME.TXT é para podermos salvar o diretório no repositório.

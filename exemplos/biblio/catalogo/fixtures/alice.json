@@ -1,0 +1,82 @@
+[
+  {
+    "pk": 1, 
+    "model": "catalogo.livro", 
+    "fields": {
+      "dt_publicacao": "1999-11", 
+      "isbn": "9780393048476", 
+      "qt_paginas": 312, 
+      "edicao": "Definitive Edition (1999)", 
+      "titulo": "The Annotated Alice", 
+      "dt_catalogacao": "2009-02-21", 
+      "editora": 1
+    }
+  }, 
+  {
+    "pk": 1, 
+    "model": "catalogo.editora", 
+    "fields": {
+      "cidade": "New York", 
+      "nome": "W. W. Norton & Company"
+    }
+  }, 
+  {
+    "pk": 1, 
+    "model": "catalogo.criador", 
+    "fields": {
+      "dt_nascimento": "1832-01-27", 
+      "nome": "Lewis Carroll"
+    }
+  }, 
+  {
+    "pk": 2, 
+    "model": "catalogo.criador", 
+    "fields": {
+      "dt_nascimento": "1914-10-21", 
+      "nome": "Martin Gardner"
+    }
+  }, 
+  {
+    "pk": 3, 
+    "model": "catalogo.criador", 
+    "fields": {
+      "dt_nascimento": "1820-02-28", 
+      "nome": "John Tenniel"
+    }
+  }, 
+  {
+    "pk": 1, 
+    "model": "catalogo.biografia", 
+    "fields": {
+      "texto": "Charles Lutwidge Dodgson, ou Lewis Carrol (Cheshire, 27 de janeiro de 1832 \u2014 Guildford, 14 de Janeiro de 1898) foi um escritor e matem\u00e1tico brit\u00e2nico. Lecionava matem\u00e1tica no Christ College, em Oxford).", 
+      "sobre": 1
+    }
+  }, 
+  {
+    "pk": 1, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 1, 
+      "criador": 1, 
+      "papel": "autor",
+    }
+  }, 
+  {
+    "pk": 2, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 1, 
+      "criador": 2, 
+      "papel": "editor",
+    }
+  }, 
+  {
+    "pk": 3, 
+    "model": "catalogo.credito", 
+    "fields": {
+      "livro": 1, 
+      "criador": 3, 
+      "papel": "ilustrador",
+    }
+  }
+]
