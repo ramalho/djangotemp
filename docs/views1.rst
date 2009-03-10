@@ -62,8 +62,8 @@ Configuração das URLs
 - em ``«aplicação»/urls.py`` a análise dos caminhos de URLs continua::
 
     urlpatterns = patterns('',
-        (r'^$', list_detail.object_list, livros_info),
-        (r'^livro/(?P<object_id>\d+)/$', list_detail.object_detail, livros_info),
+        url(r'^$', list_detail.object_list, livros_info),
+        url(r'^livro/(?P<object_id>\d+)/$', list_detail.object_detail, livros_info),
     )
 
 - no exemplo acima, a URL ``http://exemplo.com/cat/`` aciona a *view* ``object_list``
@@ -89,8 +89,8 @@ Configuração de *views* genéricas
     }
     
     urlpatterns = patterns('',
-        (r'^$', list_detail.object_list, livros_info),
-        (r'^livro/(?P<object_id>\d+)/$', list_detail.object_detail, livros_info),
+        url(r'^$', list_detail.object_list, livros_info),
+        url(r'^livro/(?P<object_id>\d+)/$', list_detail.object_detail, livros_info),
     )
     
 - **linha 2:** importação do módulo ``views.generic.list_detail``
@@ -178,14 +178,14 @@ Solução: views nomeadas e o *decorator* ``permalink``
 
 A solução do problema envolve duas alterações, ambas dentro da aplicação ``catalogo``:
 
-1. no módulo ``urls.py`` da aplicação, a configuração da view de detalhe recebe um nome (último item na linha 4 do trecho abaixo):
+1. no módulo ``urls.py`` da aplicação, a configuração da view de detalhe recebe um nome (último argumento na linha 4 do trecho abaixo):
 
 .. code-block:: python
     :linenos:
     
     urlpatterns = patterns('',
-        (r'^$', list_detail.object_list, livros_info), 
-        (r'^livro/(?P<object_id>\d+)/$', list_detail.object_detail, 
+        url(r'^$', list_detail.object_list, livros_info), 
+        url(r'^livro/(?P<object_id>\d+)/$', list_detail.object_detail, 
             livros_info, 'catalogo-livro-detalhe'),
     )
 
@@ -246,3 +246,29 @@ A solução do problema envolve duas alterações, ambas dentro da aplicação `
 
     - ``date_based.object_detail``
 
+----------------------------------------------
+Principais funções para configuração de URLs
+----------------------------------------------
+
+Usadas em ``urls.py``:
+
+    ``patterns(prefixo, url1, url2, ...)``
+        Define uma sequência de padrões de URLs. O prefixo serve para abreviar as referências às views em forma de strings, sendo pre-pendado a todas as views do conjunto. Não tem utilidade quando se usa referências diretas às views.
+        Os demais argumentos são chamadas de ``url``, ou tuplas formadas por item na ordem exata dos parâmetros da função ``url`` (ver abaixo).
+        Sequências de padrões de URLs podem ser concatenadas.
+    
+    ``url(regex, ref_view, extra_dict=None, name='')``
+        Define um padrão de URL vinculado a uma view. Os parâmetros são:
+        
+        ``regex``
+            Expressão regular que será aplicada à URL. Grupos anônimos (ex. ``(+\d)``) são passados para a view como parâmetros posicionais, em ordem. Grupos nomeados (ex. ``(?P<object_id>\d+)``) são passados como parâmetros nomeados. A melhor prática é usar sempre grupos nomeados para reduzir o acoplamento da configuração com a definição da view.
+            
+        ``ref_view``
+            Referência a uma view. Pode ser uma string ou uma referência real à função da view. No segundo caso, é preciso importar a função no topo do módulo ``urls.py``.
+            
+        ``extra_dict``
+            Dicionário com valores adicionais a serem passados à view. Opcional.
+            
+        ``name``
+            Nome da view, para referência reversa.
+  
